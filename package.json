@@ -1,6 +1,6 @@
 {
   "name": "stupid-replace",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A very stupid 'replace part of a file with another file' tool. Because I am too dumb too look for sed's manual all the time. Really.",
   "bin": {
     "stupid-replace": "./index.js"
