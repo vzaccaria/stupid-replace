@@ -1,6 +1,6 @@
 # stupid-replace [![NPM version](https://badge.fury.io/js/stupid-replace.svg)](http://badge.fury.io/js/stupid-replace)
 
-> A very stupid replace part of a file with another file tool. Because I am too dumb too look for sed's manual all the time. Really.
+> A very stupid 'replace part of a file with another file' tool. Because I am too dumb too look for sed's manual all the time. Really.
 
 ## Install globally with [npm](npmjs.org):
 
